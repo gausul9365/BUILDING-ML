@@ -1,0 +1,31 @@
+Machine learning is the learning a funtion that maps intput to output from data, by minimizing the error using optimization techniques.
+
+Machine learning is just Function approximation and optimization
+      else everyting is bult on this
+
+
+Supervised learning 
+learning a mapping from input to output using labeled data
+
+Regression - a real valued number - where it has infinite  output space 
+classification - a finit output space - catogary or a class where there a fix output will either this or this
+
+
+data split - 
+this is the concept to train a model which can give optimal ouput by splitting the training data into two set
+1 -  training set 
+2 - Test set
+
+training set is the set of data on whihc model get trained 
+and
+test set will be used dueing testing the model along with evaluating the model
+even in the time of testing model get trained on test data to make model generalised and give better output
+
+two scenario 
+1- overfitting - a model only give better output on trained data, new data - get choked - crazy zig-zag curve
+2 - underfitting - a model fails on every input - straight line on curved data 
+
+Good fit - learns pattern, generalizes well - smooth curve
+
+Underfitting - high bias  
+Overfitting - high variance  
