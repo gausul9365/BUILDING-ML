@@ -19,7 +19,7 @@ this is the concept to train a model which can give optimal ouput by splitting t
 training set is the set of data on whihc model get trained 
 and
 test set will be used dueing testing the model along with evaluating the model
-even in the time of testing model get trained on test data to make model generalised and give better output
+even in the time of testing, model get trained on test data to make model generalised and give better output
 
 two scenario 
 1- overfitting - a model only give better output on trained data, new data - get choked - crazy zig-zag curve
