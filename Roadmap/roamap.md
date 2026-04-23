@@ -512,12 +512,3 @@ If you complete this properly:
 
 ---
 
-# 🚀 NEXT STEP (don’t overthink)
-
-Pick ONE:
-
-👉 “start phase 0 tasks”
-👉 “give project 1 step-by-step”
-👉 “start LLM phase directly”
-
-We move from roadmap → execution now.
