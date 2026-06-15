@@ -14,3 +14,5 @@ print(predict)
 print(model.coef_)
 
 print(model.intercept_)
+
+print(f"Hii this is very long time, now im here to restart and resume: {predict}")
